@@ -1,0 +1,528 @@
+{
+  "version": 2,
+  "updated": "2026-11-12",
+  "entries": [
+    {
+      "id": "questie",
+      "name": "Questie",
+      "summary": "Shows quest givers, objectives and turn-ins on your map and minimap.",
+      "category": "Quests",
+      "source": {
+        "provider": "github",
+        "projectId": "Questie/Questie"
+      },
+      "flavors": [
+        "forever",
+        "classicEra",
+        "classic",
+        "anniversary"
+      ],
+      "folders": [
+        "Questie"
+      ],
+      "author": "Questie team",
+      "starter": true
+    },
+    {
+      "id": "bigwigs",
+      "name": "BigWigs",
+      "summary": "Raid boss warnings and timers that stay out of your way.",
+      "category": "Boss encounters",
+      "source": {
+        "provider": "github",
+        "projectId": "BigWigsMods/BigWigs"
+      },
+      "flavors": [
+        "forever",
+        "retail",
+        "classicEra",
+        "classic",
+        "anniversary"
+      ],
+      "folders": [
+        "BigWigs"
+      ],
+      "author": "BigWigs team",
+      "starter": true
+    },
+    {
+      "id": "littlewigs",
+      "name": "LittleWigs",
+      "summary": "BigWigs warnings and timers for dungeon bosses.",
+      "category": "Boss encounters",
+      "source": {
+        "provider": "github",
+        "projectId": "BigWigsMods/LittleWigs"
+      },
+      "flavors": [
+        "forever",
+        "retail",
+        "classicEra",
+        "classic",
+        "anniversary"
+      ],
+      "folders": [
+        "LittleWigs"
+      ],
+      "author": "BigWigs team"
+    },
+    {
+      "id": "deadly-boss-mods",
+      "name": "Deadly Boss Mods",
+      "summary": "Raid and dungeon boss alerts, timers and voice warnings.",
+      "category": "Boss encounters",
+      "source": {
+        "provider": "github",
+        "projectId": "DeadlyBossMods/DeadlyBossMods"
+      },
+      "flavors": [
+        "forever",
+        "retail",
+        "classicEra",
+        "classic",
+        "anniversary"
+      ],
+      "folders": [
+        "DBM-Core"
+      ],
+      "author": "DBM team"
+    },
+    {
+      "id": "bartender4",
+      "name": "Bartender4",
+      "summary": "Replaces the action bars with flexible bars you can move and resize.",
+      "category": "Action bars",
+      "source": {
+        "provider": "github",
+        "projectId": "Nevcairiel/Bartender4"
+      },
+      "flavors": [
+        "forever",
+        "retail",
+        "classicEra",
+        "classic",
+        "anniversary"
+      ],
+      "folders": [
+        "Bartender4"
+      ],
+      "author": "Nevcairiel"
+    },
+    {
+      "id": "dominos",
+      "name": "Dominos",
+      "summary": "Lightweight action bars you can move, scale and fade.",
+      "category": "Action bars",
+      "source": {
+        "provider": "github",
+        "projectId": "tullamods/Dominos"
+      },
+      "flavors": [
+        "forever",
+        "retail",
+        "classicEra",
+        "classic",
+        "anniversary"
+      ],
+      "folders": [
+        "Dominos"
+      ],
+      "author": "Tuller"
+    },
+    {
+      "id": "tullarange",
+      "name": "tullaRange",
+      "summary": "Tints action buttons when the target is out of range or you lack power.",
+      "category": "Action bars",
+      "source": {
+        "provider": "github",
+        "projectId": "tullamods/tullaRange"
+      },
+      "flavors": [
+        "forever",
+        "retail",
+        "classicEra",
+        "classic",
+        "anniversary"
+      ],
+      "folders": [
+        "tullaRange"
+      ],
+      "author": "Tuller",
+      "starter": true
+    },
+    {
+      "id": "masque",
+      "name": "Masque",
+      "summary": "Skins for action buttons, auras and bags.",
+      "category": "Action bars",
+      "source": {
+        "provider": "github",
+        "projectId": "SFX-WoW/Masque"
+      },
+      "flavors": [
+        "forever",
+        "retail",
+        "classicEra",
+        "classic",
+        "anniversary"
+      ],
+      "folders": [
+        "Masque"
+      ],
+      "author": "StormFX"
+    },
+    {
+      "id": "plater",
+      "name": "Plater Nameplates",
+      "summary": "Configurable nameplates with threat colours and cast bars.",
+      "category": "Nameplates",
+      "source": {
+        "provider": "github",
+        "projectId": "Tercioo/Plater-Nameplates"
+      },
+      "flavors": [
+        "forever",
+        "retail",
+        "classicEra",
+        "classic",
+        "anniversary"
+      ],
+      "folders": [
+        "Plater"
+      ],
+      "author": "Tercioo"
+    },
+    {
+      "id": "grid2",
+      "name": "Grid2",
+      "summary": "Compact, highly configurable party and raid frames.",
+      "category": "Unit frames",
+      "source": {
+        "provider": "github",
+        "projectId": "michaelnpsp/Grid2"
+      },
+      "flavors": [
+        "forever",
+        "retail"
+      ],
+      "folders": [
+        "Grid2"
+      ],
+      "author": "Michael"
+    },
+    {
+      "id": "rxp-guides",
+      "name": "RestedXP Guides",
+      "summary": "Step-by-step levelling routes shown right in the game.",
+      "category": "Levelling",
+      "source": {
+        "provider": "github",
+        "projectId": "RestedXP/RXPGuides"
+      },
+      "flavors": [
+        "forever",
+        "retail",
+        "classicEra",
+        "classic",
+        "anniversary"
+      ],
+      "folders": [
+        "RXPGuides"
+      ],
+      "author": "RestedXP"
+    },
+    {
+      "id": "mapster",
+      "name": "Mapster",
+      "summary": "A cleaner world map with coordinates and fog-of-war options.",
+      "category": "Map",
+      "source": {
+        "provider": "github",
+        "projectId": "Nevcairiel/Mapster"
+      },
+      "flavors": [
+        "forever",
+        "retail"
+      ],
+      "folders": [
+        "Mapster"
+      ],
+      "author": "Nevcairiel",
+      "starter": true
+    },
+    {
+      "id": "moveany",
+      "name": "MoveAny",
+      "summary": "Move, scale and hide almost any part of the default interface.",
+      "category": "Interface",
+      "source": {
+        "provider": "github",
+        "projectId": "d4kir92/MoveAny"
+      },
+      "flavors": [
+        "forever",
+        "retail",
+        "classicEra",
+        "classic",
+        "anniversary"
+      ],
+      "folders": [
+        "MoveAny"
+      ],
+      "author": "d4kir92"
+    },
+    {
+      "id": "spartanui",
+      "name": "SpartanUI",
+      "summary": "A complete interface replacement with a bottom-bar art style.",
+      "category": "Interface",
+      "source": {
+        "provider": "github",
+        "projectId": "Wutname1/SpartanUI"
+      },
+      "flavors": [
+        "forever",
+        "retail",
+        "classicEra",
+        "classic",
+        "anniversary"
+      ],
+      "folders": [
+        "SpartanUI"
+      ],
+      "author": "Wutname1"
+    },
+    {
+      "id": "elvui",
+      "name": "ElvUI",
+      "summary": "A full interface replacement: bars, unit frames, bags, chat and more.",
+      "category": "Interface",
+      "source": {
+        "provider": "tukui",
+        "projectId": "elvui"
+      },
+      "flavors": [
+        "forever",
+        "retail",
+        "classicEra",
+        "classic",
+        "anniversary"
+      ],
+      "folders": [
+        "ElvUI"
+      ],
+      "author": "Elv",
+      "thumbnail": "https://storage.tukui.org/ElvUI-Logo-Square.png"
+    },
+    {
+      "id": "simulationcraft",
+      "name": "Simulationcraft",
+      "summary": "Exports your character so you can run SimulationCraft sims.",
+      "category": "Utility",
+      "source": {
+        "provider": "github",
+        "projectId": "simulationcraft/simc-addon"
+      },
+      "flavors": [
+        "forever",
+        "retail"
+      ],
+      "folders": [
+        "Simulationcraft"
+      ],
+      "author": "SimulationCraft team"
+    },
+    {
+      "id": "blizzmove",
+      "name": "BlizzMove",
+      "summary": "Drag the game's default windows wherever you like.",
+      "category": "Interface",
+      "source": {
+        "provider": "github",
+        "projectId": "Kiatra/BlizzMove"
+      },
+      "flavors": [
+        "forever",
+        "retail",
+        "classicEra",
+        "classic",
+        "anniversary"
+      ],
+      "folders": [
+        "BlizzMove",
+        "BlizzMove_Debug"
+      ],
+      "author": "Kiatra"
+    },
+    {
+      "id": "openmap",
+      "name": "OpenMap",
+      "summary": "A seamless world map you can zoom and pan, in the original art style.",
+      "category": "Map",
+      "source": {
+        "provider": "github",
+        "projectId": "openmap-world/openmap"
+      },
+      "flavors": [
+        "forever",
+        "retail"
+      ],
+      "folders": [
+        "OpenMap"
+      ],
+      "author": "OpenMap community"
+    },
+    {
+      "id": "node-sight",
+      "name": "Node Sight",
+      "summary": "Names every herb and ore on your minimap and makes nearby ones sparkle.",
+      "category": "Gathering",
+      "source": {
+        "provider": "github",
+        "projectId": "Krelock/NodeSight"
+      },
+      "flavors": [
+        "forever"
+      ],
+      "folders": [
+        "NodeSight"
+      ],
+      "author": "Krelock"
+    },
+    {
+      "id": "whats-training",
+      "name": "What's Training?",
+      "summary": "Shows the abilities your class trainer will teach you next.",
+      "category": "Levelling",
+      "source": {
+        "provider": "github",
+        "projectId": "fusionpit/WhatsTraining"
+      },
+      "flavors": [
+        "forever",
+        "classicEra",
+        "anniversary"
+      ],
+      "folders": [
+        "WhatsTraining"
+      ],
+      "author": "Fusionpit"
+    },
+    {
+      "id": "forever-quest-tint",
+      "name": "Forever Quest Tint",
+      "summary": "Tints the quest window for quests that are new in WoW Forever.",
+      "category": "Quests",
+      "source": {
+        "provider": "github",
+        "projectId": "alexdia25/forever-quest-tint"
+      },
+      "flavors": [
+        "forever"
+      ],
+      "folders": [
+        "ForeverQuestTint"
+      ],
+      "author": "alexdia25"
+    },
+    {
+      "id": "forever-loot-sparkles",
+      "name": "Forever Loot Sparkles",
+      "summary": "Always shows the sparkle on lootable quest items.",
+      "category": "Quests",
+      "source": {
+        "provider": "github",
+        "projectId": "svengabr/ForeverLootSparkles"
+      },
+      "flavors": [
+        "forever"
+      ],
+      "folders": [
+        "ForeverLootSparkles"
+      ],
+      "author": "svengabr"
+    },
+    {
+      "id": "librarian",
+      "name": "Librarian",
+      "summary": "Tracks WoW Forever's library books, with zone maps, rewards and map pins.",
+      "category": "Collections",
+      "source": {
+        "provider": "github",
+        "projectId": "thoriphes/Librarian"
+      },
+      "flavors": [
+        "forever"
+      ],
+      "folders": [
+        "Librarian"
+      ],
+      "author": "thoriphes"
+    },
+    {
+      "id": "manners",
+      "name": "Manners",
+      "summary": "One click to buff back whoever buffed you, and nearby players missing your buffs.",
+      "category": "Buffs",
+      "source": {
+        "provider": "github",
+        "projectId": "fpsacha/Manners"
+      },
+      "flavors": [
+        "forever",
+        "retail",
+        "classicEra",
+        "classic",
+        "anniversary"
+      ],
+      "folders": [
+        "Manners"
+      ],
+      "author": "fpsacha"
+    },
+    {
+      "id": "simple-addon-manager",
+      "name": "Simple Addon Manager",
+      "summary": "An in-game addon manager with profiles, search and categories.",
+      "category": "Utility",
+      "source": {
+        "provider": "github",
+        "projectId": "Eliote/SimpleAddonManager"
+      },
+      "flavors": [
+        "forever",
+        "retail",
+        "classicEra",
+        "classic",
+        "anniversary"
+      ],
+      "folders": [
+        "SimpleAddonManager"
+      ],
+      "author": "Eliote"
+    },
+    {
+      "id": "capping",
+      "name": "Capping",
+      "summary": "Battleground timers and other PvP helpers.",
+      "category": "PvP",
+      "source": {
+        "provider": "github",
+        "projectId": "BigWigsMods/Capping"
+      },
+      "flavors": [
+        "forever",
+        "retail",
+        "classicEra",
+        "classic",
+        "anniversary"
+      ],
+      "folders": [
+        "Capping",
+        "Capping_Options"
+      ],
+      "author": "BigWigs team"
+    }
+  ]
+}

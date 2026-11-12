@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2b3a5e"/>
+      <stop offset="0.62" stop-color="#1b2440"/>
+      <stop offset="1" stop-color="#121829"/>
+    </linearGradient>
+    <linearGradient id="brass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f2cf7a"/>
+      <stop offset="0.55" stop-color="#d2a145"/>
+      <stop offset="1" stop-color="#9c6f27"/>
+    </linearGradient>
+    <linearGradient id="ember" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe3a1"/>
+      <stop offset="1" stop-color="#ee8f3d"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.42" r="0.42">
+      <stop offset="0" stop-color="#f3b45a" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#f3b45a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="40" y="40" width="944" height="944" rx="208" fill="url(#sky)"/>
+  <rect x="40" y="40" width="944" height="944" rx="208" fill="url(#glow)"/>
+  <!-- distant ridgeline -->
+  <path d="M40 700 L190 610 L285 650 L410 560 L520 630 L640 545 L760 620 L860 575 L984 640 L984 984 L40 984 Z" fill="#18203a" opacity="0.9"/>
+  <!-- flame -->
+  <path d="M532 214 C602 292 650 352 632 420 C618 474 576 498 532 498 C488 498 446 474 432 420 C420 372 448 334 482 300 C488 334 500 356 522 368 C514 322 514 270 532 214 Z" fill="url(#ember)"/>
+  <!-- anvil -->
+  <path d="M150 548 C222 512 298 498 380 496 L834 496 L834 566 C770 572 708 592 668 628 L668 700 C710 710 750 732 772 772 L772 812 L320 812 L320 772 C342 732 382 710 424 700 L424 628 C384 598 332 582 270 578 C228 576 186 566 150 548 Z" fill="url(#brass)"/>
+  <path d="M380 496 L834 496 L834 520 L360 520 C366 510 372 502 380 496 Z" fill="#ffe8a8" opacity="0.55"/>
+</svg>
